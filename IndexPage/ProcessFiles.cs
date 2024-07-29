@@ -141,6 +141,8 @@ namespace IndexPage
                 }
             }
 
+            fileList.Sort();
+
             return fileList;
         }
 
